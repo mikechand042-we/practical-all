@@ -1,0 +1,6 @@
+ami_id = "ami-0b6d9d3d33ba97d99"
+instance_type = "t3.micro"
+key_name = "one-key"
+subnet_id = "subnet-06629a8410d116cf2"
+region = "us-east-1"
+vpc_id = "vpc-0c4b8db8fbb200e08"
